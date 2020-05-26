@@ -26,6 +26,7 @@ header [epub|type~="epigraph"] cite{
 	font-variant: small-caps;
 }
 /* End all epigraphs */
+
 /* Epigraphs in section headers */
 section > header [epub|type~="epigraph"]{
 	display: inline-block;
@@ -45,26 +46,26 @@ section > header [epub|type~="epigraph"] + *{
 }
 /* End epigraphs in section headers */
 
-[epub|type~="z3998:verse"] p{
+[epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p + p{
+[epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:verse"] + p{
+[epub|type~="z3998:poem"] + p{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p > span{
+[epub|type~="z3998:poem"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-[epub|type~="z3998:verse"] p > span + br{
+[epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
 
