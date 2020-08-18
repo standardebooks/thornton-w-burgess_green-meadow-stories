@@ -75,6 +75,10 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+section[epub|type~="chapter"]{
+	break-after: page;
+}
+
 .indent{
 	text-indent: 1em !important;
 }
