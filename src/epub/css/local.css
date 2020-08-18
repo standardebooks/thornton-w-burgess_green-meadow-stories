@@ -5,21 +5,13 @@
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
-}
-
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-	font-style: normal;
+	-epub-hyphens: none;
 }
 
 [epub|type~="epigraph"] cite{
 	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
-}
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
 }
 
 header [epub|type~="epigraph"] cite{
@@ -35,10 +27,6 @@ section > header [epub|type~="epigraph"]{
 	text-align: left;
 }
 
-section > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
-}
-
 @supports(display: table){
 	section > header [epub|type~="epigraph"]{
 		display: table;
@@ -46,6 +34,8 @@ section > header [epub|type~="epigraph"] + *{
 }
 /* End epigraphs in section headers */
 
+[epub|type~="z3998:song"] p,
+[epub|type~="z3998:verse"] p,
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
@@ -55,16 +45,22 @@ section > header [epub|type~="epigraph"] + *{
 	margin-top: 1em;
 }
 
+[epub|type~="z3998:song"] + p,
+[epub|type~="z3998:verse"] + p,
 [epub|type~="z3998:poem"] + p{
 	text-indent: 0;
 }
 
+[epub|type~="z3998:song"] p > span,
+[epub|type~="z3998:verse"] p > span,
 [epub|type~="z3998:poem"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
+[epub|type~="z3998:song"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br,
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
@@ -80,5 +76,5 @@ span[epub|type~="subtitle"]{
 }
 
 .no-indent{
-	text-indent: 0em;
+	text-indent: 0;
 }
