@@ -78,6 +78,21 @@
 		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Juliet Sutherland</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Sutherland, Juliet</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Franks, Charles</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Cori Samuel</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Samuel, Cori</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-6">Kent Fielden</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Fielden, Kent</meta>
+		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Widger, David</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
 		<meta property="se:url.homepage" refines="#producer-1">http://astart.ca</meta>
