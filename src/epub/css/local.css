@@ -75,6 +75,6 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-.no-indent{
-	text-indent: 0;
+.indent{
+	text-indent: 1em !important;
 }
