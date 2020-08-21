@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thornton-w-burgess/green-meadow-stories</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-08-21T00:14:14Z</dc:date>
+		<meta property="dcterms:modified">2020-08-21T00:14:14Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,9 +39,9 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">This is a compilation of four distinct but entwined animal tales featuring the denizens of the Green Meadows.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/thornton-w-burgess"&gt;Thornton W. Burgess&lt;/a&gt; (1874–1965) was an American naturalist and the author of dozens of books for children, the most enduring of which are &lt;i&gt;Old Mother West Wind&lt;/i&gt; and &lt;i&gt;The Burgess Bird Book for Children&lt;/i&gt;. Burgess was a passionate twentieth-century conservationist who dedicated his life to teaching children and their families about the importance of the natural life of the northern North American forest.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/thornton-w-burgess"&gt;Thornton W. Burgess&lt;/a&gt; was an American naturalist and the author of dozens of books for children, the most enduring of which are &lt;i&gt;Old Mother West Wind&lt;/i&gt; and &lt;i&gt;The Burgess Bird Book for Children&lt;/i&gt;. Burgess was a passionate twentieth-century conservationist who dedicated his life to teaching children and their families about the importance of the natural life of the northern North American forest.&lt;/p&gt;
 			&lt;p&gt;The &lt;i&gt;Green Meadow Stories&lt;/i&gt; compilation is made up of four distinct but entwined tales: those of Happy Jack Squirrel, Mrs. Peter Rabbit, Bowser the Hound, and Old Granny Fox. Through the adventures of these focal characters readers are introduced to the wider territory of the Green Meadows, the Green Forest, and the Smiling Pond as well as to the animals’ Great World.&lt;/p&gt;
-			&lt;p&gt;The animals of Burgess’s stories are anthropomorphized, undoubtedly, but not caricatured: these are not the twee creatures of Disney cartoons. Their behaviour is explained in ways that would be understandable to a human child—this is fiction, after all—but Burgess’s “little people of the forest” are not simply humans dressed in fur and feathers. The original illustrations in Burgess’s books (by Harrison Cady, not reproduced in this edition) represent the animals wearing clothes, but Burgess’s own descriptions of animals are more natural and metaphorical and less fantastic. For example, he describes Chatterer the Red Squirrel, “who always wears a red coat with vest of white,” a compact way of communicating the look of a squirrel that many of today’s children will never have seen with their own eyes. Less pleasantly, it is Peter Rabbit’s fur and flesh that is rent when Hooty the Owl tears Peter’s “coat” one night on the Old Pasture.&lt;/p&gt;
+			&lt;p&gt;The animals of Burgess’s stories are anthropomorphized, undoubtedly, but not caricatured: these are not the twee creatures of Disney cartoons. Their behaviour is explained in ways that would be understandable to a human child—this is fiction, after all—but Burgess’s “little people of the forest” are not simply humans dressed in fur and feathers. The original illustrations in Burgess’s books (by Harrison Cady, not reproduced in this edition) show the animals wearing clothes, but Burgess’s own descriptions of animals are more natural and metaphorical, and less fantastic. For example, he describes Chatterer the Red Squirrel, “who always wears a red coat with vest of white,” a compact way of communicating the look of a squirrel that many of today’s children will never have seen with their own eyes. Less pleasantly, it is Peter Rabbit’s fur and flesh that is rent when Hooty the Owl tears Peter’s “coat” one night on the Old Pasture.&lt;/p&gt;
 			&lt;p&gt;Burgess has tremendous respect for the creatures he depicts, as well as for their natural home. While the presentation of the Green Meadow is hardly “Nature, red in tooth and claw,” it is surprisingly unsentimental. Peter Rabbit, for example, lives a highly anxious life under threat from the many predators who would enjoy having him for dinner; similarly, Happy Jack Squirrel experiences days and nights of terror when Shadow the Weasel discovers Happy Jack’s home and hunts him relentlessly. During a long, hard winter, Granny Fox and Reddy Fox come close to starving, and Old Man Coyote leads Bowser the Hound on a dangerous chase that may result in one or the other dying. Despite other fanciful, sentimental elements of storytelling, Burgess does not sugarcoat prey/predator relationships or the precarity of wild animals’ lives.&lt;/p&gt;
 			&lt;p&gt;Burgess is a clear conservationist in his representations of hunting. The animals are highly aware of hunters and their “dreadful guns.” It is a notable moment in this collection when Farmer Brown’s Boy decides he will no longer use his gun to harm the little people of the Green Meadow and the Green Forest. The stories are also notable in their detailed representation of a largely intact forest, something few children in the twenty-first century will experience.&lt;/p&gt;
 			&lt;p&gt;On the other hand, these are books for children, and they contain plenty of sweetness and light. Animal pairings—such as when Peter Rabbit meets the dainty Little Miss Fuzzytail, the future Mrs. Rabbit—are vague but sentimental and soon lead to proud new families of Rabbits, Ducks, Deer, and Owls. The “little people” celebrate the arrival of each spring’s babies, mark each other’s new relationships and homes, play together, and even help each other survive. They laugh, tease, and trick each other—a fanciful interpretation of animal behaviour that could lead to a reader’s life-long fascination with, and respect for, forest creatures—and for generations of readers, they did just that.&lt;/p&gt;
@@ -57,8 +57,8 @@
 		<dc:source>https://catalog.hathitrust.org/Record/100189944</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/101986516</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006149669</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">90238</meta>
+		<meta property="se:reading-ease.flesch">80.62</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thornton-w-burgess_green-meadow-stories</meta>
 		<dc:creator id="author">Thornton W. Burgess</dc:creator>
 		<meta property="file-as" refines="#author">Burgess, Thornton W. </meta>
@@ -109,6 +109,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-3">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-3">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
