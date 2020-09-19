@@ -45,12 +45,6 @@ section > header [epub|type~="epigraph"]{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:song"] + p,
-[epub|type~="z3998:verse"] + p,
-[epub|type~="z3998:poem"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span,
 [epub|type~="z3998:poem"] p > span{
@@ -72,8 +66,4 @@ p span.i1{
 
 section[epub|type~="chapter"]{
 	break-after: page;
-}
-
-.indent{
-	text-indent: 1em !important;
 }
