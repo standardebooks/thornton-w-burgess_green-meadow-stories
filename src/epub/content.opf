@@ -60,7 +60,7 @@
 		<meta property="se:reading-ease.flesch">80.62</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thornton-w-burgess_green-meadow-stories</meta>
 		<dc:creator id="author">Thornton W. Burgess</dc:creator>
-		<meta property="file-as" refines="#author">Burgess, Thornton W. </meta>
+		<meta property="file-as" refines="#author">Burgess, Thornton W.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Thornton Waldo Burgess</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thornton_W._Burgess</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79138563</meta>
