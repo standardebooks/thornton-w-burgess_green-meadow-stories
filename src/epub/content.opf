@@ -56,7 +56,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/100189944</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/101986516</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006149669</dc:source>
-		<meta property="se:word-count">90237</meta>
+		<meta property="se:word-count">90236</meta>
 		<meta property="se:reading-ease.flesch">80.62</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thornton-w-burgess_green-meadow-stories</meta>
 		<dc:creator id="author">Thornton W. Burgess</dc:creator>
