@@ -75,7 +75,7 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">https://pgdp.net/</meta>
+		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Juliet Sutherland</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Sutherland, Juliet</meta>
