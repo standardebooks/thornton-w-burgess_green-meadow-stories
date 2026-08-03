@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/thornton-w-burgess/green-meadow-stories</dc:identifier>
 		<dc:date>2020-08-21T00:14:14Z</dc:date>
@@ -38,8 +38,8 @@
 		<meta property="term" refines="#subject-2">sh2008121042</meta>
 		<meta property="schema:genre">Children’s</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A compilation of four distinct but entwined animal tales featuring the denizens of the Green Meadows.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A compilation of four distinct but entwined animal tales featuring the denizens of the Green Meadows.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/thornton-w-burgess"&gt;Thornton W. Burgess&lt;/a&gt; was an American naturalist and the author of dozens of books for children, the most enduring of which are &lt;i&gt;Old Mother West Wind&lt;/i&gt; and &lt;i&gt;The Burgess Bird Book for Children&lt;/i&gt;. Burgess was a passionate twentieth-century conservationist who dedicated his life to teaching children and their families about the importance of the natural life of the northern North American forest.&lt;/p&gt;
 			&lt;p&gt;The &lt;i&gt;Green Meadow Stories&lt;/i&gt; compilation is made up of four distinct but entwined tales: those of Happy Jack Squirrel, Mrs. Peter Rabbit, Bowser the Hound, and Old Granny Fox. Through the adventures of these focal characters readers are introduced to the wider territory of the Green Meadows, the Green Forest, and the Smiling Pond as well as to the animals’ Great World.&lt;/p&gt;
 			&lt;p&gt;The animals of Burgess’s stories are anthropomorphized, undoubtedly, but not caricatured: these are not the twee creatures of Disney cartoons. Their behaviour is explained in ways that would be understandable to a human child—this is fiction, after all—but Burgess’s “little people of the forest” are not simply humans dressed in fur and feathers. The original illustrations in Burgess’s books (by Harrison Cady, not reproduced in this edition) show the animals wearing clothes, but Burgess’s own descriptions of animals are more natural and metaphorical, and less fantastic. For example, he describes Chatterer the Red Squirrel, “who always wears a red coat with vest of white,” a compact way of communicating the look of a squirrel that many of today’s children will never have seen with their own eyes. Less pleasantly, it is Peter Rabbit’s fur and flesh that is rent when Hooty the Owl tears Peter’s “coat” one night on the Old Pasture.&lt;/p&gt;
@@ -48,7 +48,7 @@
 			&lt;p&gt;On the other hand, these are books for children, and they contain plenty of sweetness and light. Animal pairings—such as when Peter Rabbit meets the dainty Little Miss Fuzzytail, the future Mrs. Rabbit—are vague but sentimental and soon lead to proud new families of Rabbits, Ducks, Deer, and Owls. The “little people” celebrate the arrival of each spring’s babies, mark each other’s new relationships and homes, play together, and even help each other survive. They laugh, tease, and trick each other—a fanciful interpretation of animal behaviour that could lead to a reader’s life-long fascination with, and respect for, forest creatures—and for generations of readers, they did just that.&lt;/p&gt;
 			&lt;p&gt;The stories are also more didactic than most twenty-first-century authors would dare to be. There are morals associated with most stories, often attributed to the animal about whom the story is being told. Through this practical teaching, Burgess suggests a correspondence between how animals and humans live; but he consistently clarifies that animal intelligence is different from, but certainly no less than, human intelligence.&lt;/p&gt;
 			&lt;p&gt;Unlike the bouncy rhyming verses of many of today’s children’s books, Burgess’s sentences have a somewhat old-fashioned cadence, creating the distinct and appealing music of traditional storytelling. Burgess’s episodic chapters are eminently readable and particularly come to life when they are voiced by animated reading-aloud. For older readers looking for something different to share with children, or for new readers beginning to tackle “chapter books,” the tales of the &lt;i&gt;Green Meadow Stories&lt;/i&gt; collection are a delightful place to discover Burgess and his animal friends.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13355</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/5791</dc:source>
